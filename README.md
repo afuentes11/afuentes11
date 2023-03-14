@@ -1,3 +1,6 @@
+![Andres Fuentes Banner](https://github.com/afuentes11/afuentes11/blob/main/img/banner.png)
+
+
 <h1 align="center">Hola 👋, me llamo Andres Fuentes</h1>
 <h3 align="center">Ingeniero electrónico y estudiante de desarrollo web frontend</h3>
 
